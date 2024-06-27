@@ -1,0 +1,14 @@
+{
+    "name": "example_backend",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "azle": "^0.22.0",
+        "cors": "^2.8.5",
+        "express": "^4.19.2"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.21"
+    }
+}
